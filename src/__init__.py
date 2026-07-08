@@ -1,0 +1,1 @@
+"""LiveGallery local gallery application."""

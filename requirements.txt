@@ -1,0 +1,5 @@
+PySide6>=6.7,<6.9
+Pillow>=10.4,<12
+pillow-heif>=0.18,<0.23
+imageio-ffmpeg>=0.5,<0.7
+
